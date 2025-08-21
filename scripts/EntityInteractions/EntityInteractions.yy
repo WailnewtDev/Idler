@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"DamageCalculations",
+  "%Name":"EntityInteractions",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"DamageCalculations",
+  "name":"EntityInteractions",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

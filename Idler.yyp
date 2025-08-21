@@ -44,7 +44,7 @@
     {"id":{"name":"oSlotParent","path":"objects/oSlotParent/oSlotParent.yy",},},
     {"id":{"name":"oSlotTrainingGround","path":"objects/oSlotTrainingGround/oSlotTrainingGround.yy",},},
     {"id":{"name":"rGame","path":"rooms/rGame/rGame.yy",},},
-    {"id":{"name":"DamageCalculations","path":"scripts/DamageCalculations/DamageCalculations.yy",},},
+    {"id":{"name":"EntityInteractions","path":"scripts/EntityInteractions/EntityInteractions.yy",},},
     {"id":{"name":"Spawning","path":"scripts/Spawning/Spawning.yy",},},
     {"id":{"name":"sCharWarrior","path":"sprites/sCharWarrior/sCharWarrior.yy",},},
     {"id":{"name":"sCursor","path":"sprites/sCursor/sCursor.yy",},},

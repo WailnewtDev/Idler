@@ -15,6 +15,8 @@ draw_set_halign(fa_center);
 
 character_warrior = {
 
+lvl : 1,
+xp : 0,
 hp : 10,
 atk : 1
 
@@ -24,6 +26,7 @@ atk : 1
 
 enemy_test = {
 
+xpGiven : 1,
 hp : 3,
 atk : 1
 
